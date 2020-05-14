@@ -5,16 +5,16 @@
 
 ###Backlog
     -everybody logs in as users
-        -login and reg
-        -one partner will be the admin
+    -login and reg
+    -one partner will be the admin
     -admin creates place
-        -partner joins place
-        -each place has password
-        -2 partners per place
+    -partner joins place
+    -each place has password
+    -2 partners per place
     -admin post task
-        -partner completes task
-        -admin approves completed tasks
-        -once approved then partner will get said amount
+    -partner completes task
+    -admin approves completed tasks
+    -once approved then partner will get said amount
     -create boolean values for completed and approved tasks
 
 
